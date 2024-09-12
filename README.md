@@ -15,3 +15,5 @@ Este análisis busca determinar la rentabilidad del proyecto a largo plazo y su 
 
 Financiero: Presupuesto
 Se elabora un plan financiero que incluye un presupuesto detallado del proyecto, identificando todas las fuentes de financiamiento y los costos asociados. Es fundamental para asegurar que el proyecto sea financieramente viable y sostenible. Se consideran ingresos esperados, gastos, y la estructura financiera en general.
+
+https://actualicese.com/
