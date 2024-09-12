@@ -21,4 +21,5 @@ https://actualicese.com/
 1 analisis de problema 
 2 analisis involucrados 
 3 analisis de objetivos 
-4 analisis d alternativas 
+4 analisis de alternativas 
+5 matruz de planificacion
