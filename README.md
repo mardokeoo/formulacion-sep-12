@@ -1,6 +1,17 @@
-# formulacion-sep-12
-elementos proy inv publica
-1 tecnico : estudio del arte - proy similares
-2 intituciones : ONG , secretarias , 
-3 Administrativo : quien elabora , ejecuta , en pocas palabras quien administra el proyeecto de la ejecuacion y elaboracion tenemos en la mente que son privados o publicos que son las empresas mixtas son las publicas privada la profesora trabajo en cofren eso es una empresa mixta "pregunta de juenadiego los impuesto en col9mbia se pagan en funcion de los activos en funcion de su patrimonio la ley le dice que activos sabe que pagar la renta entonces en funcion de las propiedas la ley exige un pago de ese impuesto " Iva = impuesto valor agregado todos los colombianos pagan 4x1000 todo son impuestos un capitaul mas de 130 millones el estado le define cuanto tiene que pagar si x persona tiene un pago a nombre de el tiene que pagar impuestos caros motos el soat tecnico mecanica todo esos son impuestos tambien las empresas pagan" 
-"juandiego pregunta : pregunta que si las empresas se apropian pero no se apropian pero vienen de fuente publica el estado tributa tambien " 
+Técnico: Estudio del arte
+Se refiere al análisis de las mejores prácticas, tecnologías, y enfoques ya existentes en el área donde se llevará a cabo el proyecto. Incluye la revisión de antecedentes, investigaciones previas, y la identificación de innovaciones relevantes que puedan ser aplicadas. También evalúa la factibilidad técnica.
+
+Institucional
+En esta etapa se analiza el entorno institucional necesario para la ejecución del proyecto, incluyendo el marco organizativo, las capacidades institucionales, y las relaciones interinstitucionales. Se consideran las entidades públicas o privadas involucradas y sus roles dentro del proyecto.
+
+Administrativos
+Implica la planificación de todos los recursos humanos y logísticos requeridos. Aquí se estructuran los equipos de trabajo, se definen las funciones, la jerarquía y la asignación de responsabilidades, así como los procedimientos administrativos y operacionales.
+
+Legal
+Examina la normativa aplicable al proyecto, incluyendo leyes, reglamentos y permisos necesarios. Se asegura de que el proyecto cumpla con todas las disposiciones legales, como contratos, licencias y acuerdos con terceros. Además, se aborda la gestión de riesgos legales.
+
+Económico
+Este análisis busca determinar la rentabilidad del proyecto a largo plazo y su impacto económico en la comunidad. Se estudian los beneficios y costos a nivel social y económico, evaluando si los beneficios superan los costos.
+
+Financiero: Presupuesto
+Se elabora un plan financiero que incluye un presupuesto detallado del proyecto, identificando todas las fuentes de financiamiento y los costos asociados. Es fundamental para asegurar que el proyecto sea financieramente viable y sostenible. Se consideran ingresos esperados, gastos, y la estructura financiera en general.
