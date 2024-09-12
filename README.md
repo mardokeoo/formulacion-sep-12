@@ -1,2 +1,3 @@
 # formulacion-sep-12
-markdown
+elementos proy inv publica
+1 tecnico : estudio del arte - proy similares
